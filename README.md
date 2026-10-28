@@ -24,3 +24,5 @@ An end-to-end movie ticket booking application built using the MERN stack (Mongo
 
    ## Demo Video
 [Watch Project Demo Video](https://drive.google.com/file/d/1wgwyzqy-SZnZstw5WH3bgjMgPSfyEnOo/view?usp=sharing)
+## ER Diagram
+![Database ER Diagram](./er-diagram.png)
